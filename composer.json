@@ -1,7 +1,7 @@
 {
     "name": "thatguysam/gutenberg-object-plugin",
     "description": "Saving Gutenberg as a clean array of data to the database",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "license": "GPL-3.0",
     "authors": [
         {
